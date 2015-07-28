@@ -12,7 +12,7 @@ namespace WebRole1
         protected void Page_Load(object sender, EventArgs e)
         {
             var all = string.Format("test{0}", 123);
-
+            //Some Test
         }
     }
 }
